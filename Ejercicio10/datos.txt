@@ -1,0 +1,10 @@
+1. PROFESIÓN: Desarrollador Back-End Senior
+2. Nº HERMANOS: 2
+3. EDAD: Entre 18 y 30
+4. SEXO: Hombre
+5. PRACTICA DEPORTE: Sí
+6. DEPORTE: Fútbol
+7. NIVEL COMPRAS: 6
+8. NIVEL TV: 8
+9. NIVEL CINE: 4
+
