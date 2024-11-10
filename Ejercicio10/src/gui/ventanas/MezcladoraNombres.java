@@ -43,6 +43,8 @@ public class MezcladoraNombres extends javax.swing.JInternalFrame {
         jLabelIngrese2Nombre = new javax.swing.JLabel();
         jTextField2Nombre = new javax.swing.JTextField();
 
+        setClosable(true);
+
         jButtonMezclar.setFont(new java.awt.Font("Segoe UI", 1, 12)); // NOI18N
         jButtonMezclar.setText("MEZCLAR");
         jButtonMezclar.addActionListener(new java.awt.event.ActionListener() {

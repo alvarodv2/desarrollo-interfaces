@@ -42,6 +42,8 @@ public class AccesoDeportivo extends javax.swing.JInternalFrame {
         jLabelContraseña = new javax.swing.JLabel();
         jPasswordField = new javax.swing.JPasswordField();
 
+        setClosable(true);
+
         jButtonAcceder.setText("ACCEDER");
         jButtonAcceder.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {

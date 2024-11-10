@@ -43,6 +43,8 @@ public class AppMinisterio extends javax.swing.JInternalFrame {
         jMenuAyuda = new javax.swing.JMenu();
         jMenuItemAyuda = new javax.swing.JMenuItem();
 
+        setClosable(true);
+
         jTable1.setModel(new javax.swing.table.DefaultTableModel(
             new Object [][] {
 

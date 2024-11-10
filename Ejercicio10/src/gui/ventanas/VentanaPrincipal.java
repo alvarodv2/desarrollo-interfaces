@@ -219,6 +219,8 @@ public class VentanaPrincipal extends javax.swing.JFrame {
         accesoDeport.setTitle(nombre + " " + apellidos + " -  Mezcladora de Nombres");
         jDesktopPane1.add(accesoDeport);
         accesoDeport.setVisible(true);
+        jTextField1.setText(""); 
+        jTextField2.setText(""); 
     }//GEN-LAST:event_jButtonRegistroDeportivoActionPerformed
 
     private void jButtonImitadorActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButtonImitadorActionPerformed
@@ -234,6 +236,8 @@ public class VentanaPrincipal extends javax.swing.JFrame {
         imitador.setTitle(nombre + " " + apellidos + " -  Mezcladora de Nombres");
         jDesktopPane1.add(imitador);
         imitador.setVisible(true);
+        jTextField1.setText(""); 
+        jTextField2.setText(""); 
     }//GEN-LAST:event_jButtonImitadorActionPerformed
 
     private void jButtonMezclarodaActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButtonMezclarodaActionPerformed
@@ -249,6 +253,8 @@ public class VentanaPrincipal extends javax.swing.JFrame {
         mezcladora.setTitle(nombre + " " + apellidos + " -  Mezcladora de Nombres");
         jDesktopPane1.add(mezcladora);
         mezcladora.setVisible(true);
+        jTextField1.setText(""); 
+        jTextField2.setText(""); 
     }//GEN-LAST:event_jButtonMezclarodaActionPerformed
 
     private void jButtonMinisterioActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButtonMinisterioActionPerformed
@@ -264,6 +270,8 @@ public class VentanaPrincipal extends javax.swing.JFrame {
         appMinis.setTitle(nombre + " " + apellidos + " -  Mezcladora de Nombres");
         jDesktopPane1.add(appMinis);
         appMinis.setVisible(true);
+        jTextField1.setText(""); 
+        jTextField2.setText(""); 
     }//GEN-LAST:event_jButtonMinisterioActionPerformed
 
     /**
